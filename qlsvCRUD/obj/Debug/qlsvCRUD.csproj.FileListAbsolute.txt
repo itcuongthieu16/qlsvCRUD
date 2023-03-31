@@ -1,0 +1,8 @@
+D:\WebAPI-NET5\qlsvCRUD\qlsvCRUD\bin\Debug\qlsvCRUD.exe.config
+D:\WebAPI-NET5\qlsvCRUD\qlsvCRUD\bin\Debug\qlsvCRUD.exe
+D:\WebAPI-NET5\qlsvCRUD\qlsvCRUD\bin\Debug\qlsvCRUD.pdb
+D:\WebAPI-NET5\qlsvCRUD\qlsvCRUD\obj\Debug\qlsvCRUD.csproj.AssemblyReference.cache
+D:\WebAPI-NET5\qlsvCRUD\qlsvCRUD\obj\Debug\qlsvCRUD.csproj.SuggestedBindingRedirects.cache
+D:\WebAPI-NET5\qlsvCRUD\qlsvCRUD\obj\Debug\qlsvCRUD.csproj.CoreCompileInputs.cache
+D:\WebAPI-NET5\qlsvCRUD\qlsvCRUD\obj\Debug\qlsvCRUD.exe
+D:\WebAPI-NET5\qlsvCRUD\qlsvCRUD\obj\Debug\qlsvCRUD.pdb
